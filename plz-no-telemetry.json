@@ -1,0 +1,24 @@
+[{
+  "varname": "NEXT_TELEMETRY_DISABLED",
+  "value": 1,
+  "source": "https://nextjs.org/telemetry",
+  "comment": "Nextjs telemetry"
+}, {
+  "varname": "DISABLE_BUN_ANALYTICS",
+  "value": 1,
+  "source": "https://bun.sh/docs/project/configuration",
+  "comment": "Bun records bundle timings and feature usage"
+}, {
+  "varname": "STORYBOOK_DISABLE_TELEMETRY",
+  "value": 1,
+  "source": "https://storybook.js.org/docs/react/configure/telemetry"
+}, {
+  "varname": "FUNCTIONS_CORE_TOOLS_TELEMETRY_OPTOUT",
+  "value": true,
+  "source": "https://github.com/Azure/azure-functions-core-tools#telemetry"
+}, {
+  "varname": "DOTNET_CLI_TELEMETRY_OPTOUT",
+  "value": 1,
+  "source": "https://learn.microsoft.com/en-us/dotnet/core/tools/telemetry",
+  "comment": ".NET SDK and CLI"
+}]
