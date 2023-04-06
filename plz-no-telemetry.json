@@ -21,4 +21,12 @@
   "value": 1,
   "source": "https://learn.microsoft.com/en-us/dotnet/core/tools/telemetry",
   "comment": ".NET SDK and CLI"
+}, {
+  "varname": "GATSBY_TELEMETRY_DISABLED",
+  "value": 1,
+  "source": "https://www.gatsbyjs.com/docs/telemetry/"
+}, {
+  "varname": "ASTRO_TELEMETRY_DISABLED",
+  "value": 1,
+  "source": "https://docs.astro.build/en/reference/cli-reference/#astro-telemetry"
 }]

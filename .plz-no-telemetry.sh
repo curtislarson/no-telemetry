@@ -17,3 +17,9 @@ export FUNCTIONS_CORE_TOOLS_TELEMETRY_OPTOUT=true
 # .NET SDK and CLI
 # SOURCE: https://learn.microsoft.com/en-us/dotnet/core/tools/telemetry
 export DOTNET_CLI_TELEMETRY_OPTOUT=1
+
+# SOURCE: https://www.gatsbyjs.com/docs/telemetry/
+export GATSBY_TELEMETRY_DISABLED=1
+
+# SOURCE: https://docs.astro.build/en/reference/cli-reference/#astro-telemetry
+export ASTRO_TELEMETRY_DISABLED=1
